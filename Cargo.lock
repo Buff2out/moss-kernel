@@ -256,9 +256,9 @@ dependencies = [
 
 [[package]]
 name = "ext4plus"
-version = "0.1.0-alpha.4"
+version = "0.1.0-alpha.5"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "7d4c717f942d8f2d0ba620e17afac4fd8c2c9ad315ca205d652bcd4c0503ed1b"
+checksum = "866bc656467be17c403c70ab35ccb0f3294a7aaa6425c879b63d6aa878e3ffab"
 dependencies = [
  "async-trait",
  "bitflags 2.11.0",
